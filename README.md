@@ -7,9 +7,7 @@
     │   ├── SearchScreen.    │   ├── SplashScreen.tsx
     │   ├── SyncStatusScreen.tsx
     │   └── VersionHistoryScreen.ts    │   ├── db.ts               # SQLite schema & CRUD operations
-    │   ├── network.ts          # Network check & sync queue s    ├── store/                  # Zustand state stores
-    │   ├── useAuthStore.ts
-    │   ├── useNoteStore.ts
+    │   ├── network.ts          # Network check & sync queue s    ├── store/                  # Zustand state stor    │   ├── useNoteStore.ts
     │   ├── useSettingsStore.ts
     │   └── useSyncStore.ts
     └── types/
