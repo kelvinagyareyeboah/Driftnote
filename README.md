@@ -1,9 +1,8 @@
  SDK **Expo Router**, **SQLite**, and **Zustand**. Designed around the principle that offline reliability should be a first-class feature, Driftnote saves every keystroke directly to high-performance local SQLite storage and automatically handles background synchronization when network co
 ---
 
-## ✨ Features
-
-- **📱 100% Local-First SQLite Architecture**  
+## ✨ Feat
+- **📱 100% Local-First S
   Zero loading screens, zero internet dependency. Notes are written directly to your device's SQLite database (`expo-sqlite`).
 
 - **⚡ Smart Background Sync Queue**  
