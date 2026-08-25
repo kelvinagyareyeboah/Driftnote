@@ -1,5 +1,4 @@
-
-  Edits made offline ared. As you ty and saved automatically with an unobtrusive `StatusPill` indicator (*Saving...*, *Saved locally*  Eveedit  local snapshot stored in SQLite. Browse historical versions and restore any past state with
+apshot stored in SQLite. Browse historical versions and restore any past state with
 - **⚔️ 3-Way  - **Merge Both**:tly concatenates both ver
 - **🌗 Persisted Dark
 - **📳 Tactile Haptic Feedback**  
