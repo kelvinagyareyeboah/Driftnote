@@ -4,9 +4,7 @@
 - **Language:** TypeScript (Strict mode)
 - **Database:** `expo-sqlite` (v16 modern async API)
 - **State Management:** Zustand (Notes, Sync Queue, Auth, & Settings stores)
-- **Persistence:** `@react-native-async-storage/async-storage`
-- **Network St├── app/                        # Expo Router file-based │   ├── _layout.tsx             # Root Stack layout & DB startup initialization
-│   ├── auth.tsx                # Authentication entry route
+- **Persistence:** `@react-native-async-storage/async-storage│   ├── auth.tsx                # Authentication entry route
 │   ├── editor.tsx              # Note editor route (?id=...)
 │   ├── history.tsx             # Version history route (?id=...)
 │   ├── onboarding.tsx          # Interactive onboarding slides
