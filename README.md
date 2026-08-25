@@ -6,9 +6,7 @@
   Edits made offline are automatically queued with pending status. As soon as connectivity returns, Driftnote pushes ch- **⏱️ 750ms Debounced Autosave**  
   No manual save button required. As you type, notes are debounced and saved automatically with an unobtrusive `StatusPill` indicator (*Saving...*, *Saved locally*  Eveedit creates an immutable local snapshot stored in SQLite. Browse historical versions and restore any past state with
 - **⚔️ 3-Way Conflict Resolution**  
-  Handles sync conflicts contextually with an interactive modal presenting three distinct resolution strategies:
-  - **Keep Mine**: Retains local device version.
-  - **Keep Synced Version**: Overwrites with remote version.
+  Handles sync conflicts contextually with an interactive modal presenting three distinct resolutio  - **Keep Synced Version**: Overwrites with remote version.
   - **Merge Both**: Intelligently concatenates both versions.
 
 - **🎨 Clean Figma-Inspired Authentication**  
