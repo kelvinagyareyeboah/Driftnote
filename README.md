@@ -6,12 +6,7 @@
 - **State Management:** Zustand (Notes, Sync Queue, Auth, & Settings stores)
 - **Persistence:** `@react-native-async-storage/async-storage`
 - **Network State:** 
-- **Haptics:** `expo-haptics`
-
----
-
-## 📂 Project Structure
-
+- **Haptics:** `expo-haptics
 ```
 driftnote/
 ├── app/                        # Expo Router file-based pages
