@@ -6,10 +6,7 @@
     └── types/
         └── note.ts             #
 ## 🚀 ### Prerequ
-### Installation
-
-1. **Clone the repository:**
-   ```bash
+### Instal   ```bash
    git clone https://github.com/your-username/driftnote.git
    cd driftnote
    ```
