@@ -5,9 +5,7 @@
 - **🎨 CAuthentic
 - **🌗 Persisted Dark
 - **📳 Tactile Haptic Feedback**  
-  Uses `expo-haptics` for tactile feedback during save, delete, and sync actions.
-
----
+  Uses `expo-haptics` for tactile feedback during save, delete, and 
 
 #- **Framework:** React Native (Expo SDK 54)
 - **Routing:** Expo Router v6 (File-based navigation with 4-tab bar)
