@@ -6,9 +6,7 @@
 - **State Management:** Zustand (Notes, Sync Queue, Auth, & Settings stores)
 - **Persistence:** `@react-native-async-storage/async-storage`
 - **Network State:** 
-- **Haptics:** `expo-haptics
-```
-driftnote/
+- **Haptics:** `expo-hapdriftnote/
 ├── app/                        # Expo Router file-based pages
 │   ├── (tabs)/                 # Bottom 4-tab bar (Notes, Search, Sync, Settings)
 │   ├── _layout.tsx             # Root Stack layout & DB startup initialization
