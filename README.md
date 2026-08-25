@@ -1,1 +1,124 @@
+<div align="center">
 
+# ⚡ Driftnote
+
+**Notes that never lose your work — online or offline.**
+
+Local-first note-taking for React Native, built so offline reliability is a first-class feature, not an afterthought.
+
+[![Expo SDK](https://img.shields.io/badge/Expo-SDK%2054-000020?logo=expo)](https://expo.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+</div>
+
+---
+
+## Overview
+
+Driftnote writes every keystroke straight to a local SQLite database, so the app never blocks on a network connection. When connectivity returns, a background sync queue pushes your changes automatically — with conflict resolution built in for when the same note changes in two places at once.
+
+## Features
+
+| | |
+|---|---|
+| **📱 Local-First SQLite** | Notes are written directly to on-device SQLite (`expo-sqlite`) — no loading screens, no internet dependency. |
+| **⚡ Smart Sync Queue** | Offline edits are queued with a pending status and pushed automatically once the connection is restored. |
+| **⏱️ Debounced Autosave** | Edits save automatically 750ms after you stop typing — no save button, just a subtle `StatusPill` (*Saving…* → *Saved locally* → *Synced*). |
+| **📜 Version History** | Every meaningful edit creates an immutable snapshot. Browse past versions and restore any of them in one tap. |
+| **⚔️ 3-Way Conflict Resolution** | An interactive modal lets you **Keep Mine**, **Keep Synced Version**, or **Merge Both** when a sync conflict occurs. |
+| **🎨 Figma-Inspired Auth Flow** | Login, Create Account, Forgot Password, and Set New Password screens, plus a 1-tap demo mode for fast evaluation. |
+| **🌗 Light & Dark Themes** | A custom design-token system (`#090D16` dark / `#F8FAFC` light) with the brand accent tied to the *Synced* status color. |
+| **📳 Haptic Feedback** | Tactile feedback via `expo-haptics` on save, delete, and sync events. |
+
+## Tech Stack
+
+- **Framework** — React Native (Expo SDK 54)
+- **Routing** — Expo Router v6, file-based, 4-tab bottom navigation
+- **Language** — TypeScript (strict mode)
+- **Database** — `expo-sqlite` (v16 async API)
+- **State** — Zustand (notes, sync queue, auth, and settings stores)
+- **Persistence** — `@react-native-async-storage/async-storage`
+- **Network** — `expo-network`
+- **Haptics** — `expo-haptics`
+
+## Project Structure
+
+```
+driftnote/
+├── app/                      # Expo Router file-based pages
+│   ├── (tabs)/                 # Notes · Search · Sync · Settings
+│   ├── _layout.tsx             # Root stack layout & DB init
+│   ├── auth.tsx                # Authentication entry route
+│   ├── editor.tsx              # Note editor (?id=...)
+│   ├── history.tsx             # Version history (?id=...)
+│   ├── onboarding.tsx          # Onboarding slides
+│   └── splash.tsx              # Animated splash screen
+│
+└── src/
+    ├── constants/
+    │   └── theme.ts             # Design tokens (theme, typography)
+    ├── components/
+    │   ├── ConflictResolutionModal.tsx
+    │   ├── NoteCard.tsx
+    │   ├── StatusPill.tsx
+    │   └── SyncDot.tsx
+    ├── screens/
+    │   ├── AuthScreen.tsx
+    │   ├── NoteEditorScreen.tsx
+    │   ├── NotesListScreen.tsx
+    │   ├── OnboardingScreen.tsx
+    │   ├── SearchScreen.tsx
+    │   ├── SettingsScreen.tsx
+    │   ├── SplashScreen.tsx
+    │   ├── SyncStatusScreen.tsx
+    │   └── VersionHistoryScreen.tsx
+    ├── services/
+    │   ├── db.ts                # SQLite schema & CRUD
+    │   ├── network.ts           # Network checks & sync queue
+    │   └── storage.ts           # AsyncStorage helper
+    ├── store/
+    │   ├── useAuthStore.ts
+    │   ├── useNoteStore.ts
+    │   ├── useSettingsStore.ts
+    │   └── useSyncStore.ts
+    └── types/
+        └── note.ts               # Shared TypeScript interfaces
+```
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js v18+
+- npm
+
+### Installation
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-username/driftnote.git
+cd driftnote
+
+# 2. Install dependencies
+npm install
+
+# 3. Start the Expo development server
+npx expo start --clear
+```
+
+### Run on a Device
+
+| Key | Target |
+|---|---|
+| `a` | Android emulator / device |
+| `i` | iOS simulator |
+| — | Scan the QR code with **Expo Go** on a physical device |
+
+## Security & Privacy
+
+Notes live exclusively in your device's encrypted sandbox via SQLite. Nothing leaves your phone unless you configure a remote sync backend.
+
+## License
+
+Released under the [MIT License](LICENSE).
