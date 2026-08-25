@@ -6,9 +6,7 @@
   Handles sync conflicts contextually with an interactive modal presenting three distinct resolutio  - **Keep Synced Version**: Overwrites with remote version.
   - **Merge Both**: Intelligently concatenates both versions.
 
-- **🎨 Clean Figma-Inspired Authentication**  
-  Multi-frame authentication flow (*Login*, *Create Account*, *Forgot Password*, *Set New Password*) with top curved hero headers, warm tinted inputs, high-contrast action buttons, and a **1-Tap Demo Mode** for fast evaluation.
-
+- **🎨 Clean Figma-Inspired Authentic
 - **🌗 Persisted Dark & Light Themes**  
   Sleek design system built with custom theme tokens (`#090D16` dark mode / `#F8FAFC` light mode) and brand accent tied directly to the **Synced** status indicator.
 
