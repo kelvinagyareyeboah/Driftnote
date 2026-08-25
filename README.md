@@ -7,9 +7,7 @@
     ├── components/             # Reusable UI components
     │   ├── ConflictResolutionModal.tsx
     │   ├── NoteCard.tsx
-    │   ├── StatusPill.tsx
-    │   └── SyncDot.tsx
-    ├── screens/                # Full screen views
+    │   ├── Statu    ├── screens/                # Full screen views
     │   ├── AuthScreen.tsx
     │   ├── NoteEditorScreen.tsx
     │   ├── NotesListScreen.tsx
