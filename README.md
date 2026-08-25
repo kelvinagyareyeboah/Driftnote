@@ -7,10 +7,7 @@
         └── note.ts             #
 ## 🚀 Getting Started
 
-### Prerequisites
-
-Ensure you have Node.js (v18+) and npm installed on your machine.
-
+### Prerequ
 ### Installation
 
 1. **Clone the repository:**
