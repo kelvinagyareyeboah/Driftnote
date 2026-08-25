@@ -1,4 +1,4 @@
-ge Both**:tly concatenates both ver
+ver
 - **🌗 Persisted Dark
 - **📳 Tactile Haptic Feedback**  
   Uses `expo-haptics` for tactile feedback during save, delet- **Routing:** Expo Router v6 (File-based navigation with 4-tab bar)
