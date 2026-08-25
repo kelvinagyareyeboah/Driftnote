@@ -5,9 +5,7 @@
     │   ├── OnboardingScreen.tsx
     │   ├── SearchScreen.    │   ├── SplashScreen.tsx
     │   ├── SyncStatusScreen.tsx
-    │   └── VersionHistoryScreen.ts    │   ├── db.ts               # SQLite schema & CRUD operations
-    │   ├── network.ts          # Network check & sync queue s    ├── store/                  # Zustand state stor    │   ├── useNoteStore.ts
-    │   ├── useSettingsStore.ts
+    │   └── VersionHistoryScreen.ts    │   ├── db.ts               # SQLite schema & CRUD operati    │   ├── useSettingsStore.ts
     │   └── useSyncStore.ts
     └── types/
         └── note.ts             # TypeScript
