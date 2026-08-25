@@ -7,9 +7,7 @@
   - **Merge Both**: Intelligently concatenates both versions.
 
 - **🎨 Clean Figma-Inspired Authentic
-- **🌗 Persisted Dark & Light Themes**  
-  Sleek design system built with custom theme tokens (`#090D16` dark mode / `#F8FAFC` light mode) and brand accent tied directly to the **Synced** status indicator.
-
+- **🌗 Persisted Dark & Light Themes
 - **📳 Tactile Haptic Feedback**  
   Uses `expo-haptics` for tactile feedback during save, delete, and sync actions.
 
