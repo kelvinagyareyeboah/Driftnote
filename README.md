@@ -2,9 +2,7 @@
 - **⚡ Smart
   Edits made offline are autom pending status. As soon as connectivity returns, Driftnote pushes ch- **⏱️ 750ms Debounced Autosave**  
   No manual save button required. As you ty and saved automatically with an unobtrusive `StatusPill` indicator (*Saving...*, *Saved locally*  Eveedit  local snapshot stored in SQLite. Browse historical versions and restore any past state with
-- **⚔️ 3-Way Confli
-  Handles sync conflicts contextually with an interactive modal presenting three distinct resolutio  - **Keep Synced Version**: Overwrites with remote version.
-  - **Merge Both**:tly concatenates both versions.
+- **⚔️ 3-Way  - **Merge Both**:tly concatenates both versions.
 
 - **🎨 Clean Figma-Inspired Authentic
 - **🌗 Persisted Dark
