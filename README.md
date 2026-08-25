@@ -8,9 +8,7 @@
     │   ├── SettingsScreen.tsx
     │   ├── SplashScreen.tsx
     │   ├── SyncStatusScreen.tsx
-    │   └── VersionHistoryScreen.tsx
-    ├── services/               # Service layer
-    │   ├── db.ts               # SQLite schema & CRUD operations
+    │   └── VersionHistoryScreen.ts    │   ├── db.ts               # SQLite schema & CRUD operations
     │   ├── network.ts          # Network check & sync queue stub
     │   └── storage.ts          # AsyncStorage helper
     ├── store/                  # Zustand state stores
