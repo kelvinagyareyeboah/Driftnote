@@ -1,4 +1,4 @@
-rectly to high-performance local SQLite storage and automatically handles background synchronization when network co
+h-performance local SQLite storage and automatically handles background synchronization when network co
 ---
 
 ## ✨ Feat
