@@ -1,4 +1,4 @@
-t dependency. Notes are written directly to your device's SQLite database (`expo-sqlite`).
+. Notes are written directly to your device's SQLite database (`expo-sqlite`).
 
 - **⚡ Smart
   Edits made offline are autom pending status. As soon as connectivity returns, Driftnote pushes ch- **⏱️ 750ms Debounced Autosave**  
