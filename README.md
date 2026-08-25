@@ -1,8 +1,7 @@
 
 never lose your work — online or offline.**
 
-Driftnote is a production-grade, local-first note-taking application built with **React Native**, **Expo SDK 54**, **TypeScript**, **Expo Router**, **SQLite**, and **Zustand**. Designed around the principle that offline reliability should be a first-class feature, Driftnote saves every keystroke directly to high-performance local SQLite storage and automatically handles background synchronization when network connection is restored.
-
+Driftnote is a production-grade, local-first note-taking application built with **React Native**, **Expo SDK 54**, **TypeScript**, **Expo Router**, **SQLite**, and **Zustand**. Designed around the principle that offline reliability should be a first-class feature, Driftnote saves every keystroke directly to high-performance local SQLite storage and automatically handles background synchronization when network co
 ---
 
 ## ✨ Features
