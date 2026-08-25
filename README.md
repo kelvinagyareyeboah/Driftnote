@@ -5,9 +5,7 @@
 - **Database:** `expo-sqlite` (v16 modern async API)
 - **State Management:** Zustand (Notes, Sync Queue, Auth, & Settings stores)
 - **Persistence:** `@react-native-async-storage/async-storage│   ├── auth.tsx                # Authentication entry │   ├── history.tsx             # Version history route (?id=...)
-│   ├── onboarding.tsx          # Interactive onboarding slides
-│   └── splash.tsx              # Animated brand splash screen
-└── src/
+│   ├── onboarding.tsx          # Interactive onboarding sl└── src/
     ├── constants/
     │   └── theme.ts            # Design system tokens (light/dark themes, typography)
     ├── components/             # Reusable UI components
