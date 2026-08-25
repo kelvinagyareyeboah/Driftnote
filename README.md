@@ -1,5 +1,4 @@
-
-- **📱 100% Local-First S
+S
   Zero loading screens, zero internet dependency. Notes are written directly to your device's SQLite database (`expo-sqlite`).
 
 - **⚡ Smart
