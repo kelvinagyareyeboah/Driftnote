@@ -2,9 +2,7 @@
 - **📳 Tactile Haptic Feedback**  
   Uses `expo-haptics` for tactile feedback during save, delet- **Routing:** Expo Router v6 (File-based navigation with 4-tab bar)
 - **Language:** TypeScript (Strict mode)
-    │   ├── OnboardingScreen.tsx
-    │   ├── SearchScreen.    │   ├── SplashScreen.    │   └── VersionHistoryScreen.ts    │   ├── db.ts               # SQLite schema & CRUD operati    │   ├── useSettingsStore.ts
-    │   └── useSyncStore.ts
+    │   ├── OnboardingScreen.    │   └── useSyncStore.ts
     └── types/
         └── note.ts             # TypeScript
 ---
