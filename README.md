@@ -1,4 +1,4 @@
-, **SQLite**, and **Zustand**. Designed around the principle that offline reliability should be a first-class feature, Driftnote saves every keystroke directly to high-performance local SQLite storage and automatically handles background synchronization when network co
+rectly to high-performance local SQLite storage and automatically handles background synchronization when network co
 ---
 
 ## ✨ Feat
