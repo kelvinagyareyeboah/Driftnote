@@ -6,9 +6,7 @@
    git clone https://github.com/your-username/driftnote
    ```
 
-3. **Start the Expo development server:**   ```
-
-4. **Run on a device or emulator:**
+3. **Start the Expo development ser4. **Run on a device or emulator:**
    - Press **`a`** to launch in Android Emulator / device.
    - Press **`i`** to launch in iOS Simulator.
    - Scan the QR code using **Expo Go** on your physical mobile device.
