@@ -7,7 +7,7 @@
   No manual save button required. As you type, notes are debounced and saved automatically with an unobtrusive `StatusPill` indicator (*Saving...*, *Saved locally*, *Synced*).
 
 - **📜 Version History Snapshots**  
-  Every meaningful edit creates an immutable local snapshot stored in SQLite. Browse historical versions and restore any past state with a single tap.
+  Eveedit creates an immutable local snapshot stored in SQLite. Browse historical versions and restore any past state with a single tap.
 
 - **⚔️ 3-Way Conflict Resolution**  
   Handles sync conflicts contextually with an interactive modal presenting three distinct resolution strategies:
