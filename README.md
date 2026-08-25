@@ -2,9 +2,7 @@
 - **📳 Tactile Haptic Feedback**  
   Uses `expo-haptics` for tactile feedback during save, delet- **Routing:** Expo Router v6 (File-based navigation with 4-tab bar)
 - **Language:** TypeScript (Strict mode)
-    │   ├── OnboardingScreen.    │   └── useSyncStore.ts
-    └── types/
-        └── note.ts             #
+    │   ├── OnboardingScreen.    │   └── useSy        └── note.ts             #
 ## 🚀 ### Prerequ
 ### Instal   ```bash
    git clone https://github.com/your-username/driftnote.git
