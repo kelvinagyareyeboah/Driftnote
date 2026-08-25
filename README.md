@@ -6,10 +6,7 @@
 ## 🚀 ### Prerequ
 ### Instal   ```bash
    git clone https://github.com/your-username/driftnote.git
-   cd driftnote
-   ```
-
-2. **Install dependencies:**
+   cd dr2. **Install dependencies:**
    ```bash
    npm install
    ```
