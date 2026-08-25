@@ -5,9 +5,7 @@
 - **Database:** `expo-sqlite` (v16 modern async API)
 - **State Management:** Zustand (Notes, Sync Queue, Auth, & Settings stores)
 - **Persistence:** `@react-native-async-storage/async-storage`
-- **Network State:** 
-- **Haptics:** `expo-hapdriftnote/
-├── app/                        # Expo Router file-based pages
+- **Network St├── app/                        # Expo Router file-based pages
 │   ├── (tabs)/                 # Bottom 4-tab bar (Notes, Search, Sync, Settings)
 │   ├── _layout.tsx             # Root Stack layout & DB startup initialization
 │   ├── auth.tsx                # Authentication entry route
