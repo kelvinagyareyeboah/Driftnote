@@ -4,7 +4,7 @@
   No manual save button required. As you ty and saved automatically with an unobtrusive `StatusPill` indicator (*Saving...*, *Saved locally*  Eveedit  local snapshot stored in SQLite. Browse historical versions and restore any past state with
 - **⚔️ 3-Way  - **Merge Both**:tly concatenates both versions.
 
-- **🎨 Clean Figma-Inspired Authentic
+- **🎨 CAuthentic
 - **🌗 Persisted Dark
 - **📳 Tactile Haptic Feedback**  
   Uses `expo-haptics` for tactile feedback during save, delete, and sync actions.
