@@ -4,9 +4,7 @@
 - **Language:** TypeScript (Strict mode)
 - **Database:** `expo-sqlite` (v16 modern async     │   ├── NotesListScreen.tsx
     │   ├── OnboardingScreen.tsx
-    │   ├── SearchScreen.tsx
-    │   ├── SettingsScreen.tsx
-    │   ├── SplashScreen.tsx
+    │   ├── SearchScreen.    │   ├── SplashScreen.tsx
     │   ├── SyncStatusScreen.tsx
     │   └── VersionHistoryScreen.ts    │   ├── db.ts               # SQLite schema & CRUD operations
     │   ├── network.ts          # Network check & sync queue stub
