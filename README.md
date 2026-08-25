@@ -4,9 +4,7 @@
 - **Language:** TypeScript (Strict mode)
     │   ├── OnboardingScreen.    │   └── useSyncStore.ts
     └── types/
-        └── note.ts             # TypeScript
----
-
+        └── note.ts             #
 ## 🚀 Getting Started
 
 ### Prerequisites
