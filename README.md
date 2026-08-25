@@ -8,9 +8,7 @@ Driftnote is a production-grade, local-first note-taking application built with 
   Zero loading screens, zero internet dependency. Notes are written directly to your device's SQLite database (`expo-sqlite`).
 
 - **⚡ Smart Background Sync Queue**  
-  Edits made offline are automatically queued with pending status. As soon as connectivity returns, Driftnote pushes changes seamlessly.
-
-- **⏱️ 750ms Debounced Autosave**  
+  Edits made offline are automatically queued with pending status. As soon as connectivity returns, Driftnote pushes ch- **⏱️ 750ms Debounced Autosave**  
   No manual save button required. As you type, notes are debounced and saved automatically with an unobtrusive `StatusPill` indicator (*Saving...*, *Saved locally*, *Synced*).
 
 - **📜 Version History Snapshots**  
