@@ -3,10 +3,7 @@
 - **⚔️ 3-Way  - **Merge Both**:tly concatenates both ver
 - **🌗 Persisted Dark
 - **📳 Tactile Haptic Feedback**  
-  Uses `expo-haptics` for tactile feedback during save, delete, and 
-
-#- **Framework:** React Native (Expo SDK 54)
-- **Routing:** Expo Router v6 (File-based navigation with 4-tab bar)
+  Uses `expo-haptics` for tactile feedback during save, delet- **Routing:** Expo Router v6 (File-based navigation with 4-tab bar)
 - **Language:** TypeScript (Strict mode)
 - **Database:** `expo-sqlite` (v16 modern async API)
 - **State Management:** Zustand (Notes, Sync Queue, Auth, & Settings stores)
