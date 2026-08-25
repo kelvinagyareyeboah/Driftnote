@@ -7,7 +7,7 @@ apshot stored in SQLite. Browse historical versions and restore any past state w
 - **Database:** `expo-sqlite` (v16 modern async API)
 - **State Management:** Zustand (Notes, Sync Queue, Auth, & Settings stores)
 - **Persistence:** `@react-native-async-storage/async-storage`
-- **Network State:** `expo-network`
+- **Network State:** 
 - **Haptics:** `expo-haptics`
 
 ---
