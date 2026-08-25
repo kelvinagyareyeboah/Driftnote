@@ -5,9 +5,7 @@
     │   ├── OnboardingScreen.    │   └── useSyncStore.ts
     └── types/
         └── note.ts             #
-## 🚀 Getting Started
-
-### Prerequ
+## 🚀 ### Prerequ
 ### Installation
 
 1. **Clone the repository:**
