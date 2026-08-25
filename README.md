@@ -3,7 +3,7 @@
   Zero loading screens, zero internet dependency. Notes are written directly to your device's SQLite database (`expo-sqlite`).
 
 - **⚡ Smart Background Sync Queue**  
-  Edits made offline are automatically queued with pending status. As soon as connectivity returns, Driftnote pushes ch- **⏱️ 750ms Debounced Autosave**  
+  Edits made offline are autom pending status. As soon as connectivity returns, Driftnote pushes ch- **⏱️ 750ms Debounced Autosave**  
   No manual save button required. As you type, notes are debounced and saved automatically with an unobtrusive `StatusPill` indicator (*Saving...*, *Saved locally*  Eveedit creates an immutable local snapshot stored in SQLite. Browse historical versions and restore any past state with
 - **⚔️ 3-Way Conflict Resolution**  
   Handles sync conflicts contextually with an interactive modal presenting three distinct resolutio  - **Keep Synced Version**: Overwrites with remote version.
