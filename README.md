@@ -3,9 +3,7 @@
   Uses `expo-haptics` for tactile feedback during save, delet- **Routing:** Expo Router v6 (File-based navigation with 4-tab bar)
 - **Language:** TypeScript (Strict mode)
 - **Database:** `expo-sqlite` (v16 modern async API)
-- **State Management:** Zustand (Notes, Sync Queue, Auth, & Settings st│   ├── onboarding.tsx          # Interactive onboarding sl└──     │   └── theme.ts            # Design system tokens (light/dark themes, typography)
-    ├── components/             # Reusable UI components
-    │   ├── ConflictResolutionModal.tsx
+- **State Management:** Zustand (Notes, Sync Queue, Auth, & Settings st│   ├── onboarding.tsx          # Interactive onboarding sl└──     │   └── theme.ts            # Design system tokens (light/dark themes, typogra    │   ├── ConflictResolutionModal.tsx
     │   ├── NoteCard.tsx
     │   ├── Statu    ├── screens/                # Full screen views
     │   ├── AuthScreen.tsx
