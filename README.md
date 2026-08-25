@@ -11,9 +11,7 @@
     │   ├── useSettingsStore.ts
     │   └── useSyncStore.ts
     └── types/
-        └── note.ts             # TypeScript interfaces
-```
-
+        └── note.ts             # TypeScript
 ---
 
 ## 🚀 Getting Started
