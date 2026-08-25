@@ -7,7 +7,7 @@
   - **Merge Both**:tly concatenates both versions.
 
 - **🎨 Clean Figma-Inspired Authentic
-- **🌗 Persisted Dark & Light Themes
+- **🌗 Persisted Dark
 - **📳 Tactile Haptic Feedback**  
   Uses `expo-haptics` for tactile feedback during save, delete, and sync actions.
 
