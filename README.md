@@ -1,5 +1,4 @@
-h-performance local SQLite storage and automatically handles background synchronization when network co
----
+h-performance
 
 ## ✨ Feat
 - **📱 100% Local-First S
