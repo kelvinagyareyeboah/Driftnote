@@ -1,4 +1,4 @@
-vice's SQLite database (`expo-sqlite`).
+e (`expo-sqlite`).
 
 - **⚡ Smart
   Edits made offline are autom pending status. As soon as connectivity returns, Driftnote pushes ch- **⏱️ 750ms Debounced Autosave**  
