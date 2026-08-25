@@ -9,9 +9,7 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Framework:** React Native (Expo SDK 54)
+#- **Framework:** React Native (Expo SDK 54)
 - **Routing:** Expo Router v6 (File-based navigation with 4-tab bar)
 - **Language:** TypeScript (Strict mode)
 - **Database:** `expo-sqlite` (v16 modern async API)
