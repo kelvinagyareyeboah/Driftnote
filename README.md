@@ -1,6 +1,6 @@
 
     ├── components/
-    │   ├── ConflictResolution    │   ├── AuthS    
+    │   ├── ConflictResolution   
     │   ├── Onboardin├── SearchScr    │   ├── Sp
     │   ├── SyncStatusScreen.ts    │   └── storage.ts           # AsyncStorage help    │   ├── useNoteStore.ts
     │   ├── useSettingsStore.ts
