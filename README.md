@@ -5,7 +5,6 @@
     │   ├──
 - npm
 
-### Installation
 
 ```bash
 # 1. Clone the repository
