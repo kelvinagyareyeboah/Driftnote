@@ -2,7 +2,6 @@
 
 ### Run on a Device
 
-| Key | Target |
 |---|---|
 | `a` | Android emulator / device |
 | `i` | iOS simulator |
