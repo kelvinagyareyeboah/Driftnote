@@ -1,6 +1,4 @@
-
-    ├── constants/
-    │   └── theme.ts             # Design tokens (theme, typography)
+         # Design tokens (theme, typography)
     ├── components/
     │   ├── ConflictResolution    │   ├── AuthS    
     │   ├── Onboardin├── SearchScr    │   ├── Sp
