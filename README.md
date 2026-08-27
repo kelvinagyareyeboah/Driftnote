@@ -1,5 +1,5 @@
 
-Driftnote writes every keystroke straight to a local SQLite database, so the app never blocks on a network connection. When connectivity returns, a background sync queue pushes your changes automatically — with conflict resolution built in for when the same note changes in two places at once.
+Driftnote writes evereue pushes your changes automatically — with conflict resolution built in for when the same note changes in two places at once.
 
 ## Features
 
