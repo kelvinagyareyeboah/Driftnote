@@ -1,4 +1,3 @@
-eact Native, built so offline reliability is a first-class feature, not an afterthought.
 
 [![Expo SDK](https://img.shields.io/badge/Expo-SDK%2054-000020?logo=expo)](https://expo.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
