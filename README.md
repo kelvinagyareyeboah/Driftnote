@@ -5,9 +5,7 @@
     ├── components/
     │   ├── ConflictResolution    │   ├── AuthS    │   ├── NotesListScreen.tsx
     │   ├── OnboardingScreen.tsx
-    │   ├── SearchScreen.tsx
-    │   ├── SettingsScreen.tsx
-    │   ├── Sp
+    │   ├── SearchScr    │   ├── Sp
     │   ├── SyncStatusScreen.tsx
     │   └── VersionHistoryScreen.tsx
     ├── services/
