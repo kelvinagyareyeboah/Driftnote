@@ -1,10 +1,5 @@
 
 
-```bash
-elopment server
-npx expo start --clear
-```
-
 ### Run on a Device
 
 | Key | Target |
