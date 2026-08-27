@@ -1,4 +1,4 @@
-your changes automatically — with conflict resolution built in for when the same note changes in two places at once.
+t resolution built in for when the same note changes in two places at once.
 
 ## Features
 
