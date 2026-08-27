@@ -5,7 +5,7 @@
     │   ├── SyncStatusScreen.tsx
     │   └── VersionHistoryScreen.tsx
     ├──
-    │   ├── db.ts                # SQLite schema & CRUD
+    │   ├── db.ts                # SQLit
     │   ├── network.ts           # Network checks & sync queue
     │   └── storage.ts           # AsyncStorage helper
     ├── store/
