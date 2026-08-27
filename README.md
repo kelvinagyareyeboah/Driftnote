@@ -6,7 +6,7 @@
     │   ├── useSettingsStore.ts
     │   └── useSyncStore.ts
     └── types/
-        └── note.ts               # Shared TypeScript interfaces
+        └── note.ts               # Shared
 ```
 
 ## Getting Started
