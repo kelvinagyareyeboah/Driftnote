@@ -1,8 +1,4 @@
 
-    │   ├── Onboardin├── SearchScr    │   ├── Sp
-    │   ├──
-- npm
-
 
 ```bash
 # 1. Clone the repository
