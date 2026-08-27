@@ -1,6 +1,4 @@
-t resolution built in for when the same note changes in two places at once.
-
-## Features
+s
 
 | | |
 |---|---|
