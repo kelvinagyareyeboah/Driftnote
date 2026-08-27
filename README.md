@@ -1,6 +1,4 @@
-nce the connection is restored. |
-| **⏱️ Debounced Autosave** | Edits save automatically 750ms after you stop typing — no save button, just a subtle `StatusPill` (*Saving…* → *Saved locally* → *Synced*). |
-| **📜 Version History** | Every meaningful edit creates an immutable snapshot. Browse past versions and restore any of them in on| **🎨 Figma-Inspired Auth Flow** | Login, Create Account, Forgot Password, and Set New Password screens, plus a 1-tap demo mode for fast evaluation. |
+nce the connection is restored. | **📜 Version History** | Every meaningful edit creates an immutable snapshot. Browse past versions and restore any of them in on| **🎨 Figma-Inspired Auth Flow** | Login, Create Account, Forgot Password, and Set New Password screens, plus a 1-tap demo mode for fast evaluation. |
 | **🌗 Light & Dark Themes** | A custom design-token system (`#090D16` dark / `#F8FAFC` light) with the brand accent tied to the *Synced* status color. |
 | **📳 Haptic Feedback** | Tactile feedback via `expo-haptics` on save, delete, and sync events. |
 
