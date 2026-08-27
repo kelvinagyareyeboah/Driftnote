@@ -2,9 +2,7 @@
     ├── components/
     │   ├── ConflictResolution   
     │   ├── Onboardin├── SearchScr    │   ├── Sp
-    │   ├── Sync
-
-- Node.js v18+
+    │   ├──
 - npm
 
 ### Installation
