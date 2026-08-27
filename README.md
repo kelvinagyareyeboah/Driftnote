@@ -4,9 +4,7 @@
     │   └── theme.ts             # Design tokens (theme, typography)
     ├── components/
     │   ├── ConflictResolutionModal.tsx
-    │   ├── NoteCard.tsx
-    │   ├── StatusPill.tsx
-    │   └── SyncDot.tsx
+    │   ├── NoteCard.tsx    │   └── SyncDot.tsx
     ├── screens/
     │   ├── AuthScreen.tsx
     │   ├── NoteEditorScreen.tsx
