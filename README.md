@@ -1,6 +1,3 @@
-<div a
-
-# ⚡ Driftnote
 
 **Notes that never lose your work — online or offline.**
 
