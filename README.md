@@ -1,5 +1,4 @@
-
-| **📱 Local-First SQLite** | Notes are written directly to on-device SQLite (`expo-sqlite`) — no loading screens, no internet dependency. |
+ | Notes are written directly to on-device SQLite (`expo-sqlite`) — no loading screens, no internet dependency. |
 | **⚡ Smart Sync Queue** | Offline edits are queued with a pending status and pushed automatically once the connection is restored. |
 | **⏱️ Debounced Autosave** | Edits save automatically 750ms after you stop typing — no save button, just a subtle `StatusPill` (*Saving…* → *Saved locally* → *Synced*). |
 | **📜 Version History** | Every meaningful edit creates an immutable snapshot. Browse past versions and restore any of them in one tap. |
