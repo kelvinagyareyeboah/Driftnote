@@ -1,4 +1,4 @@
-ed. | **📜 Version History** | Every meaningful edit creates an immutable snapshot. Browse past versions and restore any of them in on| **🎨 Figma-Inspired Auth Flow** | Login, Create Account, Forgot Password, and Set New Password screens, plus a 1-tap demo mode for fast evaluation. |
+ingful edit creates an immutable snapshot. Browse past versions and restore any of them in on| **🎨 Figma-Inspired Auth Flow** | Login, Create Account, Forgot Password, and Set New Password screens, plus a 1-tap demo mode for fast evaluation. |
 | **🌗 Light & Dark Themes** | A custom design-token system (`#090D16` dark / `#F8FAFC` light) with the brand accent tied to the *Synced* status c
 - **Framework** — React Native (Expo SDK 54)
 - **Routing** — Expo Router v6, file-based, 4-tab bottom navigation
