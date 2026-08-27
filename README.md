@@ -2,12 +2,7 @@
     ├── components/
     │   ├── ConflictResolution    │   ├── AuthS    
     │   ├── Onboardin├── SearchScr    │   ├── Sp
-    │   ├── SyncStatusScreen.tsx
-    │   └── VersionHistoryScreen.t    │   ├── network.ts    checke
-    │   └── storage.ts           # AsyncStorage helper
-    ├── store/
-    │   ├── useAuthStore.ts
-    │   ├── useNoteStore.ts
+    │   ├── SyncStatusScreen.ts    │   └── storage.ts           # AsyncStorage help    │   ├── useNoteStore.ts
     │   ├── useSettingsStore.ts
     │   └── useSyncStore.ts
     └── types/
