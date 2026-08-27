@@ -2,7 +2,7 @@ s an immutable snapshot. Browse past versions and restore any of them in on| **�
 | **🌗 Light & Dark Themes** | A custom design-token system (`#090D16` dark / `#F8FAFC` light) with the brand accent tied to the *Synced* status c
 - **Framework** — React Native (Expo SDK 54)
 - **Routing** — Expo Router v6, file-based, 4-tab bottom navigation
-- **Langua (strict mode)
+
 - **Database** — `expo-sqlite` (v16 async API)
 - **State** — Zustand (notes, sync queue, auth, and settings stores)
 - **Persistence** — `@react-native-async-storage/async-storage`
