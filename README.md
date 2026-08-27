@@ -1,4 +1,4 @@
-go=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 </div>
