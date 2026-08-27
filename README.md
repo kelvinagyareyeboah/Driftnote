@@ -5,9 +5,7 @@
     ├── components/
     │   ├── ConflictResolutionModal.tsx
     ├── screens/
-    │   ├── AuthScreen.tsx
-    │   ├── NoteEditorScreen.tsx
-    │   ├── NotesListScreen.tsx
+    │   ├── AuthS    │   ├── NotesListScreen.tsx
     │   ├── OnboardingScreen.tsx
     │   ├── SearchScreen.tsx
     │   ├── SettingsScreen.tsx
