@@ -1,11 +1,4 @@
 
-│   ├── _layout.tsx             # Root stack layout & DB init
-│   ├── auth.tsx                # Authentication entry route
-│   ├── editor.tsx              # Note editor (?id=...)
-│   ├── history.tsx             # Version history (?id=...)
-│   ├── onboarding.tsx          # Onboarding slides
-│   └── splash.tsx              # Animated splash screen
-│
 └── src/
     ├── constants/
     │   └── theme.ts             # Design tokens (theme, typography)
