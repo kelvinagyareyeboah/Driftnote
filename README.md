@@ -7,8 +7,7 @@ s an immutable snapshot. Browse
 ## Project Structure
 
 ```
-driftnote/
-├── app/                      # Expo Router file-based pages
+drif# Expo Router file-based pages
 │   ├── (tabs)/                 # Notes · Search · Sync · Settings
 │   ├── _layout.tsx             # Root stack layout & DB init
 │   ├── auth.tsx                # Authentication entry route
