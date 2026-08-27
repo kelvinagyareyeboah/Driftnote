@@ -1,6 +1,4 @@
 
-    ├── components/
-    │   ├── ConflictResolution   
     │   ├── Onboardin├── SearchScr    │   ├── Sp
     │   ├──
 - npm
