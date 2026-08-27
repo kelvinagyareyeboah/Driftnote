@@ -5,10 +5,6 @@
     │   ├── SyncStatusScreen.ts    │   └── storage.ts           # AsyncStorage help    │   ├── useNoteStore.ts
     │   ├── useSetti    └── types/
         └─
-```
-
-## Getting Started
-
 ### Prerequisites
 
 - Node.js v18+
