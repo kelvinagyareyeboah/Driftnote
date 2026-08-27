@@ -1,4 +1,3 @@
-rk — online or offline.**
 
 Local-first note-taking for React Native, built so offline reliability is a first-class feature, not an afterthought.
 
