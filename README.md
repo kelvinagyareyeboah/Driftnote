@@ -1,12 +1,7 @@
 
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/your-username/driftnote.git
-cd driftnote
-
-# 2. Install 
-# 3. Start the Expo development server
+elopment server
 npx expo start --clear
 ```
 
