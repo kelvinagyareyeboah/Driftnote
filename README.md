@@ -1,4 +1,4 @@
-s an immutable snapshot. Brnc queue, auth, and settings stores)
+nc queue, auth, and settings stores)
 - **Persistence** — `@react-native-async-storage/async-storage`
 - **Network** — `expo-network`
 - *
