@@ -1,4 +1,4 @@
-eue pushes your changes automatically — with conflict resolution built in for when the same note changes in two places at once.
+your changes automatically — with conflict resolution built in for when the same note changes in two places at once.
 
 ## Features
 
