@@ -2,10 +2,7 @@
     ├── components/
     │   ├── ConflictResolution   
     │   ├── Onboardin├── SearchScr    │   ├── Sp
-    │   ├── SyncusScreen.ts    │   └── storage.ts           # AsyncStorage help    │   ├── useNoteStore.ts
-    │   ├── useSetti    └── types/
-        └─
-### Prerequisites
+    │   ├── Sync
 
 - Node.js v18+
 - npm
