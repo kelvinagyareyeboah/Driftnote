@@ -3,9 +3,7 @@
     ├── constants/
     │   └── theme.ts             # Design tokens (theme, typography)
     ├── components/
-    │   ├── ConflictResolutionModal.tsx
-    ├── screens/
-    │   ├── AuthS    │   ├── NotesListScreen.tsx
+    │   ├── ConflictResolution    │   ├── AuthS    │   ├── NotesListScreen.tsx
     │   ├── OnboardingScreen.tsx
     │   ├── SearchScreen.tsx
     │   ├── SettingsScreen.tsx
