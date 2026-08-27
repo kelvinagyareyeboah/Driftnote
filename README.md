@@ -3,8 +3,7 @@
     │   └── theme.ts             # Design tokens (theme, typography)
     ├── components/
     │   ├── ConflictResolution    │   ├── AuthS    
-    │   ├── OnboardingScreen.tsx
-    │   ├── SearchScr    │   ├── Sp
+    │   ├── Onboardin├── SearchScr    │   ├── Sp
     │   ├── SyncStatusScreen.tsx
     │   └── VersionHistoryScreen.tsx
     ├──
