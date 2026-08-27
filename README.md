@@ -2,10 +2,7 @@ s an immutable snapshot. Browse
 - **State** — Zustand (notes, sync queue, auth, and settings stores)
 - **Persistence** — `@react-native-async-storage/async-storage`
 - **Network** — `expo-network`
-- **Haptics** — `e
-
-## Project Structure
-
+- *
 ```
 drif# Expo Router file-based pages
 │   ├── (tabs)/                 # Notes · Search · Sync · Settings
