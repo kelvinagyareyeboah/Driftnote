@@ -1,5 +1,4 @@
 
-└── src/
     ├── constants/
     │   └── theme.ts             # Design tokens (theme, typography)
     ├── components/
