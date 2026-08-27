@@ -1,10 +1,4 @@
-nc queue, auth, and settings stores)
-- **Persistence** — `@react-native-async-storage/async-storage`
-- **Network** — `expo-network`
-- *
-```
-drif# Expo Router file-based pages
-│   ├── (tabs)/                 # Notes · Search · Sync · Settings
+
 │   ├── _layout.tsx             # Root stack layout & DB init
 │   ├── auth.tsx                # Authentication entry route
 │   ├── editor.tsx              # Note editor (?id=...)
