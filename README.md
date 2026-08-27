@@ -5,9 +5,7 @@
 git clone https://github.com/your-username/driftnote.git
 cd driftnote
 
-# 2. Install dependencies
-npm install
-
+# 2. Install 
 # 3. Start the Expo development server
 npx expo start --clear
 ```
