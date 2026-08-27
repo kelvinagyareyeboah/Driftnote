@@ -8,7 +8,7 @@
     │   ├── SearchScr    │   ├── Sp
     │   ├── SyncStatusScreen.tsx
     │   └── VersionHistoryScreen.tsx
-    ├── services/
+    ├──
     │   ├── db.ts                # SQLite schema & CRUD
     │   ├── network.ts           # Network checks & sync queue
     │   └── storage.ts           # AsyncStorage helper
