@@ -6,7 +6,7 @@
     │   └── VersionHistoryScreen.tsx
     ├──
     │   ├── db.ts                # SQLit
-    │   ├── network.ts           # Network checks & sync queue
+    │   ├── network.ts    checks & sync queue
     │   └── storage.ts           # AsyncStorage helper
     ├── store/
     │   ├── useAuthStore.ts
