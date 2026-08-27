@@ -7,7 +7,7 @@
     │   ├── OnboardingScreen.tsx
     │   ├── SearchScreen.tsx
     │   ├── SettingsScreen.tsx
-    │   ├── SplashScreen.tsx
+    │   ├── Sp
     │   ├── SyncStatusScreen.tsx
     │   └── VersionHistoryScreen.tsx
     ├── services/
