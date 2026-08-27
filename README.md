@@ -1,5 +1,4 @@
-
-**Notes that never lose your work — online or offline.**
+rk — online or offline.**
 
 Local-first note-taking for React Native, built so offline reliability is a first-class feature, not an afterthought.
 
