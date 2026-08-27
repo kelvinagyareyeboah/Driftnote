@@ -2,7 +2,7 @@
     ├── components/
     │   ├── ConflictResolution   
     │   ├── Onboardin├── SearchScr    │   ├── Sp
-    │   ├── SyncStatusScreen.ts    │   └── storage.ts           # AsyncStorage help    │   ├── useNoteStore.ts
+    │   ├── SyncusScreen.ts    │   └── storage.ts           # AsyncStorage help    │   ├── useNoteStore.ts
     │   ├── useSetti    └── types/
         └─
 ### Prerequisites
