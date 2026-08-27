@@ -3,10 +3,7 @@
     │   ├── ConflictResolution    │   ├── AuthS    
     │   ├── Onboardin├── SearchScr    │   ├── Sp
     │   ├── SyncStatusScreen.tsx
-    │   └── VersionHistoryScreen.tsx
-    ├──
-    │   ├── db.ts                # SQLit
-    │   ├── network.ts    checke
+    │   └── VersionHistoryScreen.t    │   ├── network.ts    checke
     │   └── storage.ts           # AsyncStorage helper
     ├── store/
     │   ├── useAuthStore.ts
