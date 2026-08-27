@@ -1,4 +1,4 @@
-a pending status and pushed automatically once the connection is restored. |
+nce the connection is restored. |
 | **⏱️ Debounced Autosave** | Edits save automatically 750ms after you stop typing — no save button, just a subtle `StatusPill` (*Saving…* → *Saved locally* → *Synced*). |
 | **📜 Version History** | Every meaningful edit creates an immutable snapshot. Browse past versions and restore any of them in one tap. |
 | **⚔️ 3-Way Conflict Resolution** | An interactive modal lets you **Keep Mine**, **Keep Synced Version**, or **Merge Both** when a sync conflict occurs. |
