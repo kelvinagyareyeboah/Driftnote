@@ -1,4 +1,4 @@
-         # Design tokens (theme, typography)
+(theme, typography)
     ├── components/
     │   ├── ConflictResolution    │   ├── AuthS    
     │   ├── Onboardin├── SearchScr    │   ├── Sp
