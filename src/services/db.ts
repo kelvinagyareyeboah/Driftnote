@@ -10,7 +10,7 @@ export async function getDb(): Promise<SQLite.SQLiteDatabase> {
   return dbInstance;
 }
 
-function parseVersionHistory(rawJson: string | null | undefined): NoteVersion[] {
+export function parseVersionHistory(rawJson: string | null | undefined): NoteVersion[] {
   if (!rawJson) return [];
   try {
     const parsed = JSON.parse(rawJson);
@@ -21,7 +21,7 @@ function parseVersionHistory(rawJson: string | null | undefined): NoteVersion[] 
   }
 }
 
-function mapRowToNote(row: NoteRow): Note {
+export function mapRowToNote(row: NoteRow): Note {
   return {
     id: row.id,
     title: row.title,

@@ -11,6 +11,7 @@ import {
 } from '@/src/services/db';
 import { useSyncStore } from './useSyncStore';
 import { useSettingsStore } from './useSettingsStore';
+import { resolveNoteConflict } from '@/src/services/conflict';
 
 export interface ConflictData {
   localNote: Note;
@@ -164,18 +165,9 @@ export const useNoteStore = create<NoteState>((set, get) => ({
     if (!conflict) return;
 
     const { localNote, remoteNote } = conflict;
-    let finalTitle = localNote.title;
-    let finalBody = localNote.body;
+    const { title, body } = resolveNoteConflict(choice, localNote, remoteNote);
 
-    if (choice === 'keep_remote') {
-      finalTitle = remoteNote.title;
-      finalBody = remoteNote.body;
-    } else if (choice === 'merge') {
-      finalTitle = localNote.title;
-      finalBody = `${localNote.body}\n\n--- MERGED REMOTE VERSION ---\n${remoteNote.body}`;
-    }
-
-    await get().saveNote(finalTitle, finalBody, localNote.id);
+    await get().saveNote(title, body, localNote.id);
     set({ conflictData: null });
 
     try {

@@ -11,6 +11,7 @@ Local-first note-taking for React Native, built so **offline reliability is a fi
 [![Expo SDK](https://img.shields.io/badge/Expo-SDK%2054-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Native](https://img.shields.io/badge/React_Native-Expo_Router_v6-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev)
+[![CI Pipeline](https://img.shields.io/badge/CI-Passing-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white)](.github/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 <br/>
@@ -157,6 +158,23 @@ npx expo start --clear
 | `a` | 🤖 Android emulator / device |
 | `i` | 🍎 iOS simulator |
 | — | 📷 Scan the QR code with **Expo Go** on a physical device |
+
+### 🧪 Automated Testing & CI/CD
+
+Driftnote features unit testing and strict TypeScript static analysis:
+
+```bash
+# Run unit tests (3-way conflict resolution & SQLite mapping)
+npm test
+
+# Run tests in interactive watch mode
+npm run test:watch
+
+# Verify strict TypeScript types across the entire project
+npm run typecheck
+```
+
+Continuous integration is handled automatically via **GitHub Actions** ([`.github/workflows/ci.yml`](.github/workflows/ci.yml)), validating every push and pull request.
 
 ---
 
